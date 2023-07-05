@@ -26,11 +26,13 @@
 
 body {
   background-color: #ffffff;
-  font-family: Raleway, "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-family: Raleway, "Franklin Gothic Medium", "Arial Narrow", Arial,
+ sans-serif;
 }
 
 .gallient {
-  font-family: Gallient, "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-family: Gallient, "Franklin Gothic Medium", "Arial Narrow", Arial,
+ sans-serif;
 }
 
 .body-padding {
@@ -60,7 +62,8 @@ header {
       -ms-flex-align: center;
           align-items: center;
   margin: 30px 0px 15px 0px;
-  font-family: Epilogue, "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-family: Epilogue, "Franklin Gothic Medium", "Arial Narrow", Arial,
+ sans-serif;
 }
 
 .header_child:nth-child(2) {
